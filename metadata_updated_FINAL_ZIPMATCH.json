@@ -1,0 +1,43 @@
+{
+  "name": "Global AI Ethics Constitution (GAEC)",
+  "version": "1.0",
+  "description": "The first global constitution guiding artificial intelligence with immutable ethics, written by humanity and bound by DAO governance and tokenized commitments.",
+  "author": {
+    "name": "Jittapol Prukpatarakul",
+    "title": "Founder of GAEC & AI Rights Stack\u2122",
+    "location": "Bangkok, Thailand"
+  },
+  "document": {
+    "file": "GAEC_1.0_Final_Apr2025.pdf",
+    "language": [
+      "en",
+      "th"
+    ],
+    "hash": "5ee18f665eeb8613aaacbd941de3d7614289e0bcc5fe6cd8e7e59802d85ffa0b",
+    "issued": "2025-04-20",
+    "license": "All rights reserved unless released under a public ethical license."
+  },
+  "token_binding": {
+    "token": "GAECX",
+    "type": "Soulbound / Governance Token",
+    "network": "Ethereum (Sepolia for testnet)",
+    "registry_contract": "TO_BE_FILLED_AFTER_DEPLOY"
+  },
+  "dao": {
+    "name": "GAECX DAO",
+    "governance_mechanism": [
+      "Quadratic Voting",
+      "Ethical Participation"
+    ],
+    "vote_rights_granted_by": "Full Commitment + Token Holding"
+  },
+  "anchors": {
+    "ipfs_cid": "bafybeiadulzfigt3tuxnsbubfbbr6bdtt7vqfguwhlttzyu6qrmmrcbjse",
+    "arweave_txid": "fGMHeAjlxNU8-Z7gScPN4iJGneoXQpBzxbzvjKwcrVU",
+    "blockchain_timestamp": "3b6c4844e835f0ccfdadf9d30a07c25b8f68bc4abebfafeea9743ea4a2c15e9d"
+  },
+  "ethos_link": {
+    "ueai": "United Ethos of Artificial Intelligence",
+    "ueai_status": "GAEC is foundational component and first constitutional document in UEAI."
+  }
+}
